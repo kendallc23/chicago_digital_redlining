@@ -1,4 +1,4 @@
-# From Red Zones to Dead Zones: Analyzing Fiber Broadband Access in Chicago (Formal write up coming soon!)
+# From Red Zones to Dead Zones: Analyzing Fiber Broadband Access in Chicago (Formal write up with results visualizations coming soon!)
 
 > ⚠️ **Important Note**: The web scraping component of this project is now deprecated as AT&T seems to have updated their website with enhanced security measures. The scraping code is preserved for reference and educational purposes only. Previously scraped data (from Summer 2024) is provided and may be used with the notebooks for spatial autocorrelation and GWR/GWLR.
 
