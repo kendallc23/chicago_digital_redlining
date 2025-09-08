@@ -9,7 +9,7 @@ For more context on the history of racialized redlining in the United States, ch
 1. Do locational inequalities in access to fixed fiber optic broadband service
 from AT&T, as reported by the FCC, follow historical patterns of redlining
 in Chicago? Do the redlining boundaries have a significant relationship to the
-spatial distribution of AT&T fibre service availability; if so, where does this
+spatial distribution of AT&T Fiber service availability; if so, where does this
 occur?
 
 2. Within the study area, are there discrepancies in the relationship between
@@ -50,12 +50,12 @@ The analysis employs the following spatial analysis techniques:
 ## Results Summary
 
 Key findings include:
-- Historically redlined areas are observed to have fewer locations that are eligible for AT&T fibre, but the potential
+- Historically redlined areas are observed to have fewer locations that are eligible for AT&T Fiber, but the potential
   role of gentrification suggests a more complex relationship.
 - Regression results are inconsistent across data sources (scraped vs FCC):
   - GWR results suggest a broadly negative relationship between an area having been redlined and the proportion of locations in that area
 with access to AT&T fiber. On average, moving from a historically non-redlined area to a redlined area is
-associated with a percentage point decrease in the proportion of locations eligible for AT&T fibre service of 8.20 (average coefficient of 0.082), holding all other variables
+associated with a percentage point decrease in the proportion of locations eligible for AT&T Fiber service of 8.20 (average coefficient of 0.082), holding all other variables
 constant.
   - The redlining indicator variable is not significant for any location in the GWLR results.
 - The current proportion of Black residents in a given area is significantly associated with lower odds of AT&T Fiber availability across both datasets.
