@@ -44,7 +44,7 @@ The analysis employs the following spatial analysis techniques:
      - Geographically weighted regression (GWR): designed for continuous dependent variables such as the proportion of locations in a census block group eligable for AT&T Fiber 
      - Grographically weighted logistic regression (GWLR): designed for binary dependent variables such as individual addresses that may or may not be eligable for AT&T Fiber
        
-   - Note: It was necessary to aggregate the FCC data and census-block level controlsto the HOLC neighborhood level, before conducting GWR. geometries, I
+   - Note: It was necessary to aggregate the FCC data and census-block level controls to the HOLC neighborhood level, before conducting GWR. geometries, I
      replicate the approach introduced by [Skinner et al. (2023)](https://doi.org/10.1177/08959048231174882).
 
 ## Results Summary
